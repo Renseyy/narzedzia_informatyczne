@@ -1,7 +1,7 @@
 # <img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Laptop.png' width="32px" /> Narzędzia informatyczne 
 ## <img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Thinking%20Face.png' width="32px" /> Dlaczego nam się uda?
 **Nasze 3 kroki do sukcesu**
- 1. Chcemy stworzyć nowy, leprzy projekt
+ 1. Chcemy stworzyć nowy, lepszy projekt
  2. Nie poddamy się, mimo trudności
  3. Mamy doświadczony zespół
 
