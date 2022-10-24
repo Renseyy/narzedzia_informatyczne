@@ -21,3 +21,5 @@ print("Witaj świecie!")
 ```
 ## Zdjęcie, bo miało być:
 ![Test](animals/dog.jpg)
+
+![Test](animals/cat.jpg)
