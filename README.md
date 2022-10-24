@@ -23,3 +23,4 @@ print("Witaj świecie!")
 ![Test](animals/dog.jpg)
 
 ![Test](animals/cat.jpg)
+![Test](animals/1200px-Мышь_2.jpg)
