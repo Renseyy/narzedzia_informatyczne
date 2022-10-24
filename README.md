@@ -16,5 +16,5 @@
 |<img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Angry Face.png' width="32px" />|<img src='https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Rolling on the Floor Laughing.png' width="32px" />|
 ### Kod z prezentacji
 ``` Lua
-print("Hello World!")
+print("Witaj świecie!")
 ```
