@@ -24,3 +24,4 @@ print("Witaj świecie!")
 
 ![Test](animals/cat.jpg)
 ![Test](animals/1200px-Мышь_2.jpg)
+U góry widzimy mysz, mysz jest bardzo fajna
